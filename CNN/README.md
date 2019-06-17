@@ -17,7 +17,7 @@ You will need to have Theano=0.7 to run the code. Please refer : https://github.
 Example directory structure of the data directory for SemEval Data:
 			
 	Data_SemE_P
-	├── Atheism
+	├── AT
 	|   ├── test_clean.txt
 	|   ├── test_preprocessed.csv
 	|   ├── train_clean.txt

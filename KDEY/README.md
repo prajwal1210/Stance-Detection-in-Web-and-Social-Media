@@ -7,7 +7,7 @@ Python version - 3.6/3.7 with NLTK installed
 Example directory structure of the data directory for SemEval Data:
 			
 	Data_SemE_P
-	├── Atheism
+	├── AT
 	|   ├── test_clean.txt
 	|   ├── test_preprocessed.csv
 	|   ├── train_clean.txt

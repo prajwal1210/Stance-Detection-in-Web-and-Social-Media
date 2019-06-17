@@ -14,6 +14,7 @@ import csv
 import argparse
 import os
 import shutil
+import copy
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-nd','--non-dl',dest='nondl', action='store_true')
@@ -116,8 +117,9 @@ for dataset,new_folder in zip(raw_folders,processed_folders):
                 lines = fp.readlines()
                 for line in lines:
                     x = line.split("\t")
-                    sent = x[2]
-                    old_lines.append(x[2])
+                    old_sent = copy.deepcopy(x[2])
+                    old_lines.append(old_sent)
+                    sent = clean_str(x[2])
                     word_tokens = sent.split(' ')
 
                     #Normalization
@@ -169,7 +171,7 @@ for dataset,new_folder in zip(raw_folders,processed_folders):
                     wf.writelines(new_lines)
                 with open(new_cat_folder+"/"+k+"_preprocessed.csv","w") as csvf:
                     writer = csv.writer(csvf)
-                    writer.writerow(["Tweeet", "Stance","Index","Original Tweet"])
+                    writer.writerow(["Tweet", "Stance","Index","Original Tweet"])
                     for i,line in enumerate(new_lines):
                         try:
                             writer.writerow([line.split("\t")[2],line.split("\t")[3][:-1],int(line.split("\t")[0]),old_lines[i]])
