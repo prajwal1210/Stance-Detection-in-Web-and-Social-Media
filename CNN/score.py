@@ -15,7 +15,7 @@ for root, directories, filenames in os.walk(sys.argv[1]):
     for filename in filenames:
         f[root][os.path.splitext(filename)[0]] = os.path.join(root,filename)
 
-sem = ['Atheism','LA','HC','FM','CC']
+sem = ['AT','LA','HC','FM','CC']
 mphi = ['EC','MMR','HRT','SC','VC']
 
 tot =np.array([[0, 0, 0], [0, 0, 0]])
