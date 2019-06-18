@@ -18,7 +18,7 @@ class LSTM_TAN(nn.Module):
 
         self.hidden_dim = hidden_dim
         self.embedding_dim = embedding_dim
-        #WORD_EMBEDDINGS
+
         self.word_embeddings = nn.Embedding(vocab_size, embedding_dim)
         self.word_embeddings.weight = nn.Parameter(torch.tensor(embedding_matrix,dtype=torch.float))
         self.word_embeddings.weight.requires_grad=True
@@ -30,14 +30,10 @@ class LSTM_TAN(nn.Module):
             self.attention = nn.Linear(2*embedding_dim,1)
 
 
-        #LSTM
-        # The LSTM takes word embeddings as inputs, and outputs hidden states
-        # with dimensionality hidden_dim.
         self.lstm = nn.LSTM(embedding_dim, hidden_dim, bidirectional=(version!="lstm"))
 
         self.dropout = nn.Dropout(dropout)
 
-        #FINAL_LAYER
         if version !="lstm":
             self.hidden2target = nn.Linear(2*self.hidden_dim, n_targets)
         else:
@@ -46,10 +42,6 @@ class LSTM_TAN(nn.Module):
         self.hidden = self.init_hidden()
 
     def init_hidden(self):
-        # Before we've done anything, we dont have any hidden state.
-        # Refer to the Pytorch documentation to see exactly
-        # why they have this dimensionality.
-        # The axes semantics are (num_layers, minibatch_size, hidden_dim)
         return (torch.zeros(1, 1, self.hidden_dim),
                 torch.zeros(1, 1, self.hidden_dim))
 
@@ -62,11 +54,8 @@ class LSTM_TAN(nn.Module):
 
         if version != "tan-":
             t_emb = self.word_embeddings(target)
-            #print(t_emb)
-            #print(torch.mean(t_emb,dim=0,keepdim=True).shape)
             t_emb = torch.mean(t_emb,dim=0,keepdim=True)
             xt_emb = torch.cat((x_emb,t_emb.expand(len(sentence),-1)),dim=1)
-                #print(xt_emb)
 
         if version == "tan-":
             lstm_out, _ = self.lstm(
@@ -96,12 +85,3 @@ class LSTM_TAN(nn.Module):
 
         return target_scores
 
-        #t_emb = self.word_embeddings(target)
-        #print(t_emb)
-        #print(torch.mean(t_emb,dim=0,keepdim=True).shape)
-        #t_emb = torch.mean(t_emb,dim=0,keep    dim=True)
-
-        #xt_emb = torch.cat((x_emb,t_emb.expand(len(sentence),-1)),dim=1)
-        #print(xt_emb)
-
-# In[26]:
