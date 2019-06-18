@@ -1,4 +1,4 @@
-# networks.py 
+# networks.py
 ## `class LSTM_TAN(nn.Module):`
 ```
 def __init__(self,version,embedding_dim, hidden_dim, vocab_size, n_targets,embedding_matrix,dropout = 0.5):
@@ -24,7 +24,7 @@ __Args__
 2. target -  a numpy array of shape [1xM] and dtype int, where M is the length of the target and each entry is the corresponding index of the word in the `embedding_matrix
 
 __Returns__
-1. target_scores - a torch float Tensor of shape [1xn_targets], where N is the number of dataset classes. This is the log likelihood probabilities of all the classes 
+1. target_scores - a torch float Tensor of shape [1xn_targets], where N is the number of dataset classes. This is the log likelihood probabilities of all the classes
 
 
 
@@ -59,10 +59,7 @@ if dataset == 'EC':
         topic = "climate change is a real concern"
     elif dataset == 'FM' :
         topic = "feminist movement"
-    elif dataset == 'VCA':
-        topic = "vaccines cause autism"
-    elif dataset == 'VTI':
-        topic = "vaccines treat influenza"
+
 ```
 2. version is one of ["lstm","tan-","tan+"]
 
