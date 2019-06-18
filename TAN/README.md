@@ -13,7 +13,7 @@ __Args__
 6. dropout - The dropout to be applied before on the final hidden state(lstm)/attention-weighted hidden state (tan-,tan)
 
 __Returns__
-A torch.nn.module object for the specified version
+1. A torch.nn.module object for the specified version
 
 ```
 def forward(self, sentence, target,verbose=False)
@@ -26,6 +26,45 @@ __Args__
 __Returns__
 1. target_scores - a torch float Tensor of shape [1xn_targets], where N is the number of dataset classes. This is the log likelihood probabilities of all the classes 
 
-### Running the code
-To run the code you have to run *get_training_plots.py* or *early_stopping_training.py*<br>
-To change models, call the classes with specific versions as mentioned above<br>
+
+
+## Running the code
+```
+python early_stopping_training.py <dataset> <version>
+```
+1. dataset is one of `['VC', 'HC', 'HRT', 'LA', 'CC', 'SC', 'EC', 'MMR', 'AT', 'FM']`
+```
+if dataset == 'EC':
+        topic = 'E-ciggarettes are safer than normal ciggarettes'
+        folder = "Data_MPCHI_P"
+    elif dataset == 'SC':
+        topic = 'Sun exposure can lead to skin cancer'
+        folder = "Data_MPCHI_P"
+    elif dataset == 'VC':
+        topic = 'Vitamin C prevents common cold'
+        folder = "Data_MPCHI_P"
+    elif dataset == 'HRT':
+        topic = 'Women should take HRT post menopause'
+        folder = "Data_MPCHI_P"
+    elif dataset == 'MMR':
+        topic = 'MMR vaccine can cause autism'
+        folder = "Data_MPCHI_P"
+    elif dataset == 'AT' :
+        topic = "atheism"
+    elif dataset == 'HC' :
+        topic = "hillary clinton"
+    elif dataset == 'LA' :
+        topic = "legalization of abortion"
+    elif dataset == 'CC' :
+        topic = "climate change is a real concern"
+    elif dataset == 'FM' :
+        topic = "feminist movement"
+    elif dataset == 'VCA':
+        topic = "vaccines cause autism"
+    elif dataset == 'VTI':
+        topic = "vaccines treat influenza"
+```
+2. version is one of ["lstm","tan-","tan+"]
+
+__Returns__
+Trains the model according to the voting scheme discussed in the paper. Prints the final F-Score on the test set.
