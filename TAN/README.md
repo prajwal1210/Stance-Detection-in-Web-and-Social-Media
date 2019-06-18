@@ -28,7 +28,7 @@ __Returns__
 
 
 
-## Running the code
+# Running the code
 ```
 python early_stopping_training.py <dataset> <version>
 ```
