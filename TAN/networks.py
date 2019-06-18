@@ -24,7 +24,6 @@ class LSTM_TAN(nn.Module):
         self.word_embeddings.weight.requires_grad=True
         self.version = version
 
-
         if version == "tan-":
             self.attention = nn.Linear(embedding_dim,1)
         elif version == "tan":
@@ -34,6 +33,7 @@ class LSTM_TAN(nn.Module):
         #LSTM
         # The LSTM takes word embeddings as inputs, and outputs hidden states
         # with dimensionality hidden_dim.
+        self.lstm = nn.LSTM(embedding_dim, hidden_dim, bidirectional=(version!="lstm"))
 
         self.dropout = nn.Dropout(dropout)
 
@@ -58,7 +58,6 @@ class LSTM_TAN(nn.Module):
 
     def forward(self, sentence, target,verbose=False):
         x_emb = self.word_embeddings(sentence)
-        E = self.E
         version = self.version
 
         if version != "tan-":

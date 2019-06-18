@@ -1,0 +1,125 @@
+ID	Target	tweet	Stance
+394	Are E-Cigarettes safe?	the report concluded that there is no indication that ec users are exposed to dangerous levels of formaldehyde s	FAVOR
+349	Are E-Cigarettes safe?	nicotine is no more dangerous to health than coffee , but 90 percent of the public still consider it harmful , according to a report from the you ok is royal society for public health	FAVOR
+400	Are E-Cigarettes safe?	the health effects on intensive e cigarette users are unknown	NONE
+353	Are E-Cigarettes safe?	vapor e liquid products contain chemicals known to the state of california to cause cancer , birth defects , and other reproductive harm	AGAINST
+181	Are E-Cigarettes safe?	researchers at the university of california , san francisco followed a small group of smokers for a year and found no link between trying e cigarettes and quitting , or cutting down on smoking	NONE
+408	Are E-Cigarettes safe?	in june 2014 , the royal college of physicians stated that , on the basis of available evidence , the rcp believes that e cigarettes could lead to significant falls in the prevalence of smoking in the uk , prevent many deaths and episodes of serious illness , and help to reduce the social inequalities in health that tobacco smoking currently exacerbates	FAVOR
+296	Are E-Cigarettes safe?	there are nicotine free e cigarette cartridges for those who want the experience of smoking but not the nicotine	NONE
+244	Are E-Cigarettes safe?	in an attempt to quit the tobacco habit as many as one fifth of smokers have tried e cigarettes	NONE
+316	Are E-Cigarettes safe?	e cigarettes contain only nicotine	FAVOR
+195	Are E-Cigarettes safe?	e cigarettes are battery powered devices that heat a nicotine containing liquid , which is inhaled much like a cigarette	NONE
+291	Are E-Cigarettes safe?	through a quirk of a ruling based on the 2009 family smoking prevention and tobacco control act , , as long as manufacturers do not make health claims for them the fda cannot regulate e cigarettes as drug device combinations , even though that is what they clearly are	NONE
+70	Are E-Cigarettes safe?	however , no studies have been conducted to determine that the e cigarette vapor is not carcinogenic , and there are other potential risks associated with these devices	AGAINST
+79	Are E-Cigarettes safe?	formaldehyde , acetaldehyde , acrolein , and gly ox al which are potential human car ci on gens , are frequently identified in e cigarette aerosols , they are produced when the liquid is heated by the heating element , to high temperatures	NONE
+55	Are E-Cigarettes safe?	because there is a lack of production standards and controls , the e liquid cleanliness frequently is not dependable , and testing of some products has shown the existence of toxic substances	AGAINST
+141	Are E-Cigarettes safe?	the identification of these radicals in the aerosols means that we ca n't just say e cigarettes are safe because they do n't contain tobacco	AGAINST
+173	Are E-Cigarettes safe?	electronic cigarette vendors have rubbished calls from health chiefs for them to be banned in public places	NONE
+56	Are E-Cigarettes safe?	the german cancer research center in germany released a report stating that e cigarettes cannot be considered safe , in part due to technical flaws that have been found	AGAINST
+290	Are E-Cigarettes safe?	this proliferation of flavors has led to concerns that e cigarettes are attractive to children and could facilitate getting them hooked on nicotine or even serve as a gateway to real smoking	NONE
+165	Are E-Cigarettes safe?	smoking prevalence in england has been declining from 20 in 2012 to 18 for in 2014 , and in 2014 smoking cessation rates were the highest since at least 2008	NONE
+324	Are E-Cigarettes safe?	repeatedly inhaling these over many years could cause health problems	AGAINST
+84	Are E-Cigarettes safe?	however at the low amount of nicotine provided by e cigarettes fatal overdose from use is unlikely	FAVOR
+9	Are E-Cigarettes safe?	but long term studies regarding the effects of constant use of e cigarettes are needed	NONE
+401	Are E-Cigarettes safe?	the effect on population health from e cigarettes is unknown	NONE
+375	Are E-Cigarettes safe?	reviews on the safety of electronic cigarettes have reached significantly different conclusions	NONE
+370	Are E-Cigarettes safe?	at least 43 states have placed age restrictions on the sale or possession of e cigarette products	AGAINST
+402	Are E-Cigarettes safe?	the english national health service has stated , while e cigarettes may be safer than conventional cigarettes , we denial of normal t yet know the long term effects of v aping on the body	FAVOR
+113	Are E-Cigarettes safe?	many people think that e cigarettes are less harmful than cigarettes	FAVOR
+294	Are E-Cigarettes safe?	it is not implausible that v aping ( as inhaling e cigarette vapor is commonly called ) might be safer than tobacco cigarettes	FAVOR
+93	Are E-Cigarettes safe?	as of 2014 , there are no conclusions on the possible hazards of pregnant women using e cigarettes , and there is a developing research on the negative effects of nicotine on prenatal brain development	FAVOR
+116	Are E-Cigarettes safe?	morris said the lower nicotine levels are beneficial for those looking to quit smoking	NONE
+30	Are E-Cigarettes safe?	in december 2014 , a one year old child in fort plain , new york died after an accidental ingestion of nicotine liquid	AGAINST
+137	Are E-Cigarettes safe?	previous studies have found low levels of aldehydes , chemical compounds that can cause oxidative stress and cell damage , in e cigarette smoke	AGAINST
+145	Are E-Cigarettes safe?	although the popularity and use of e cigarettes continues to increase , there is a lack of data on their potential health effects	AGAINST
+78	Are E-Cigarettes safe?	the short term toxicity of e cigarette use appears to be low , with the exception for some people with reactive airways	FAVOR
+33	Are E-Cigarettes safe?	the california poison control system reported 35 cases of e cigarette contact from 2010 to 2012 , 14 were in children and 25 were from accidental contact	AGAINST
+399	Are E-Cigarettes safe?	a 2014 review recommended that e cigarettes could be adequately regulated for consumer safety with existing directives on the design of electronic products	NONE
+285	Are E-Cigarettes safe?	last week , researchers reported that smoking e cigarettes provides more toxins than real cigarettes	AGAINST
+265	Are E-Cigarettes safe?	there is also the concern for long term effects of e cigarettes	NONE
+277	Are E-Cigarettes safe?	the narrowing and hardening of arteries are well known factors that pose risk to the heart	NONE
+360	Are E-Cigarettes safe?	as the e liquid does not contain these carcinogenic additives it was believed the lung disease risk was minimal in comparison	FAVOR
+15	Are E-Cigarettes safe?	adverse effects like throat irritation could be the result of exposure to nicotine , nicotine solvents , or toxicants in the aerosol from e cigarettes	AGAINST
+409	Are E-Cigarettes safe?	a 2014 systematic review found that the limited evidence suggests that e cigarettes are probably safer than tobacco smoke	FAVOR
+0	Are E-Cigarettes safe?	the american cancer society has stated , the makers of e cigarettes say that the ingredients are safe , but this only means the ingredients have been found to be safe to eat	FAVOR
+126	Are E-Cigarettes safe?	earlier this year , public health england advocated for replacing traditional tobacco with e cigarettes since they are supposed to be safer	FAVOR
+271	Are E-Cigarettes safe?	regular cigarettes contain about for , 000 toxic chemicals and have been linked to a wide range of diseases like lung cancer , heart disease and stroke	NONE
+184	Are E-Cigarettes safe?	that said , very few carcinogenic chemicals have been found in e cigarette vapours , and those present only appear to be in trace quantities far less than in burning tobacco and similar or less than in recognized nicotine replacement therapies	FAVOR
+336	Are E-Cigarettes safe?	according to the american lung association , cigarette smoke contains more than 7000 chemicals , 69 of which are known carcinogens	NONE
+383	Are E-Cigarettes safe?	the evidence suggests e cigarettes produce less harmful effects than tobacco	FAVOR
+73	Are E-Cigarettes safe?	while e cigarettes cannot be considered safe because there is no safe level for carcinogens , they are safer than tobacco cigarettes	FAVOR
+354	Are E-Cigarettes safe?	after e cigarettes started exploding mid puff , many suggested the benefits still outweighed the risks	FAVOR
+237	Are E-Cigarettes safe?	it is in the shift from the former category to the latter that the disease reducing potential of e cigarettes lies	FAVOR
+90	Are E-Cigarettes safe?	a 2014 review found e cigarettes emissions contain the heavy metals nickel , tin , and chromium , when testing first generation cart i mizer s of low quality	NONE
+272	Are E-Cigarettes safe?	electronic cigarettes were considered safer than the traditional cigarettes as they provide less nicotine than the latter , and do not contain the cancer causing toxins or produce harmful substances associated with smoking real cigarettes ( tar and carbon monoxide )	FAVOR
+358	Are E-Cigarettes safe?	heating the nic to nie solution in e cigarettes produces an aerosol that can be inhaled ( v aping )	NONE
+94	Are E-Cigarettes safe?	a 2015 review concluded that no amount of nicotine is safe for pregnant women	AGAINST
+72	Are E-Cigarettes safe?	however , in comparison to traditional cigarette smoke , the toxic substance levels identified in e cigarette vapor were 9 to 450 fold less	FAVOR
+42	Are E-Cigarettes safe?	in the uk fire service call outs had risen from 43 in 2013 to 62 in 2014	AGAINST
+395	Are E-Cigarettes safe?	e cigarette users are exposed to potentially harmful nicotine	AGAINST
+76	Are E-Cigarettes safe?	a 2014 review found various chemical substances and ultrafine particles known to be toxic , carcinogenic and or to cause respiratory and heart distress have been identified in e cigarette aerosols , cartridges , refill liquids and environmental emissions	AGAINST
+39	Are E-Cigarettes safe?	house and car fires and skin burns have resulted from the explosions	NONE
+362	Are E-Cigarettes safe?	particles in tobacco based cigarettes have a median size of 0 3 to 0 5 microns , but in e cigarettes they are a lot smaller at 0 18 to 0 27 microns	NONE
+25	Are E-Cigarettes safe?	poisoning associated with e cigarettes may happen by ingestion , inhalation , or absorption	AGAINST
+398	Are E-Cigarettes safe?	the health community , pharmaceutical industry , and other groups have raised concerns about the emerging phenomenon of e cigarettes including concern over as yet unknown health risks from long term use of e cigarettes	AGAINST
+312	Are E-Cigarettes safe?	an evidence based stance towards the question of whether e cigarettes are an effective smoking cessation aid is , we denial of normal t know yet	NONE
+104	Are E-Cigarettes safe?	among smokers who had heard of e cigarettes but never tried them , this perception of harm has nearly doubled from 12 in 2014 to 22 in 2015	AGAINST
+22	Are E-Cigarettes safe?	in pediatric patients , accidental exposures include ingesting of e liquids and inhaling of e cigarette vapor	AGAINST
+46	Are E-Cigarettes safe?	a spokesman for the tobacco vapor electronic cigarette association said that e cigarettes do not pose a problem if they are packed correctly in static free packaging , but that irresponsible people may sometimes pack them carelessly or tamper with them	FAVOR
+77	Are E-Cigarettes safe?	the toxicity of e cigarettes and e liquid can vary greatly , as there are differences in construction and materials in the delivery device , kind and origin of ingredients in the e liquid , and the use or non use of good manufacturing practices and quality control approaches	AGAINST
+82	Are E-Cigarettes safe?	nicotine is regarded as a potentially lethal poison	NONE
+132	Are E-Cigarettes safe?	e cigarettes deliver nicotine in water vapor instead of by burning tobacco	NONE
+118	Are E-Cigarettes safe?	without any fda regulation there is no conclusive way to say that these are a safe product	AGAINST
+57	Are E-Cigarettes safe?	flaws in e cigarettes include leaking cartridges , accidental contact with nicotine when changing cartridges , and potential of unintended overdose	NONE
+357	Are E-Cigarettes safe?	unlike normal cigarettes which burn dried tobacco , e cigarettes use a battery powered device to heat a nicotine solution known as e liquid	NONE
+24	Are E-Cigarettes safe?	unregulated e cigarettes can be a risk to young children	AGAINST
+17	Are E-Cigarettes safe?	however no direct relationship has been proven between these effects and e cigarette use , and some of them may be due to existing health problems	FAVOR
+194	Are E-Cigarettes safe?	us researchers have found that three in four e cigarettes use a flavored liquid that has been linked to severe respiratory disease	AGAINST
+249	Are E-Cigarettes safe?	wells fargo securities analyst bonnie herzog estimated there was too billion in overall e cigarette revenue last year	NONE
+31	Are E-Cigarettes safe?	calls to you is poison control centers related to e cigarette exposures involved inhalations , eye exposures , skin exposures , and ingestion , in both adults and young children	AGAINST
+287	Are E-Cigarettes safe?	according to e cigarette manufacturers , the vapor inhaled from e cigarettes does not contain tar or many of the toxic chemicals found in real cigarette smoke	NONE
+322	Are E-Cigarettes safe?	despite their advantages , e cigarettes are not completely risk free	AGAINST
+202	Are E-Cigarettes safe?	the widespread belief that e cigarettes are safer is based on the fact that they contain only the drug nicotine , and almost none of the other well known poisons found in tobacco smoke	FAVOR
+274	Are E-Cigarettes safe?	according to a new study presented at the american society of cell biology annual meeting in new orleans , a prolonged exposure to nicotine , either from a real cigarette or the battery operated device can damage the heart , cnn reported	AGAINST
+389	Are E-Cigarettes safe?	e cigarette vapor contains fewer toxic substances , and lower concentrations of potential toxic substances than cigarette smoke	FAVOR
+238	Are E-Cigarettes safe?	despite our growing knowledge that smoking tobacco is bad for us more than 40 million americans are cigarette smokers	NONE
+5	Are E-Cigarettes safe?	the us national association of county and city health officials has stated , public health experts have expressed concern that e cigarettes may increase nicotine addiction and tobacco use in young people	AGAINST
+45	Are E-Cigarettes safe?	the international civil aviation organization , a united nations agency , also recommends prohibiting e cigarettes in checked luggage	AGAINST
+110	Are E-Cigarettes safe?	however , high voltage use released enough formaldehyde containing compounds to increase a person 's lifetime risk of cancer five to 15 times higher than the risk caused by long term smoking , the study said	AGAINST
+258	Are E-Cigarettes safe?	health professionals may consider advising smokers unable or unwilling to quit through other routes to switch to e cigarettes as a safer alternative to smoking , and as a possible pathway to complete cessation of nicotine use	FAVOR
+404	Are E-Cigarettes safe?	in august 2014 , the forum of international respiratory societies stated that e cigarettes have not been demonstrated to be safe	AGAINST
+381	Are E-Cigarettes safe?	a 2014 cochrane review found no serious adverse effects reported in e cigarette trials	FAVOR
+280	Are E-Cigarettes safe?	if taking nicotine for a short time can lead to complete cessation of smoking , e cigarette included , then it will be beneficial to take nicotine for a short time as a bridge to smoking cessation	NONE
+332	Are E-Cigarettes safe?	there is nothing to light since e cigarettes run on lithium batteries	NONE
+3	Are E-Cigarettes safe?	in the uk national institute for health and care excellence ( nice ) guideline did not recommend e cigarettes as there are questions regarding the safety , efficacy , and quality of these products	AGAINST
+18	Are E-Cigarettes safe?	many of the observed negative effects from e cigarette use concerning the nervous system and the sensory system are probably related to nicotine overdose or withdrawal	AGAINST
+247	Are E-Cigarettes safe?	using electronic cigarettes has the same short term effects on the lungs as smoking conventional tobacco cigarettes , a study finds	AGAINST
+60	Are E-Cigarettes safe?	the long term health impacts of e cigarette use are unknown	NONE
+392	Are E-Cigarettes safe?	a 2015 review found that later generation e cigarettes set at higher power may generate equal or higher levels of formal de hye compared to smoking	AGAINST
+326	Are E-Cigarettes safe?	but the evidence currently available suggests very low levels of toxins in e cigarette users	FAVOR
+63	Are E-Cigarettes safe?	the chemicals and toxic substances included in e cigarettes have not been completely disclosed and their safety is not guaranteed	AGAINST
+310	Are E-Cigarettes safe?	i can understand provisionally concluding that e cigarettes are safer than cigarettes ( they likely are )	FAVOR
+223	Are E-Cigarettes safe?	if unreasoning fear carries the day , those regulations will restrict information about and access to a potentially lifesaving product , thereby increasing smoking related illness and death in the name of public health and consumer protection	NONE
+140	Are E-Cigarettes safe?	further research is needed to determine the health effects of highly reactive free radicals from e cigarettes	NONE
+153	Are E-Cigarettes safe?	but others see e cigarettes as a useful tool for those either quitting smoking or trying to find an alternative to traditional cigarettes	FAVOR
+407	Are E-Cigarettes safe?	a 2015 public health england report stated that e cigarettes are estimated to be 95 less harmful than smoking	FAVOR
+346	Are E-Cigarettes safe?	the report stated that the vapors pose a serious health threat to adolescents and fetuses and increase exposure of nonsmokers and bystanders to nicotine and a number of toxicants	AGAINST
+325	Are E-Cigarettes safe?	this is a possibility , and there is not yet enough long term research on e cigarettes to know for sure	AGAINST
+124	Are E-Cigarettes safe?	inhaled , the chemical diacetyl causes inflammation , scarring , and constriction of the bronchioles reducing airflow	AGAINST
+131	Are E-Cigarettes safe?	according to the centers for disease control and prevention , more than 20 percent of young adults have tried e cigarettes , and current smokers and recent former smokers are most likely to have used them	NONE
+275	Are E-Cigarettes safe?	exposure to nicotine is widely known to increase blood pressure and heart rate	NONE
+108	Are E-Cigarettes safe?	health experts have long known that formaldehyde and other toxic chemicals are present in cigarette smoke	NONE
+101	Are E-Cigarettes safe?	the toxic effects identified with e cigarette refill liquids on stem cells may be interpreted as embryonic death or birth defects	AGAINST
+192	Are E-Cigarettes safe?	whilst electronic cigarettes are a relatively new development compared to conventional tobacco products , there is an increasing view , amongst many in the area of public health , that the risks associated with their use , are significantly less than those associated with smoking traditional combustible tobacco products	FAVOR
+29	Are E-Cigarettes safe?	in the united states , a child died after ingesting liquid nicotine in 2014 , and another in israel in 2013	AGAINST
+261	Are E-Cigarettes safe?	according to a study , among you is quit line callers , e cigarette users were less likely to have quit at seven months than nonusers	NONE
+390	Are E-Cigarettes safe?	metal parts of e cigarettes in contact with the e liquid can contaminate it with metals	AGAINST
+266	Are E-Cigarettes safe?	electronic cigarettes , or e cigarettes , are devices for delivering nicotine vapor instead of tobacco smoke	NONE
+114	Are E-Cigarettes safe?	according to the new england journal of medicine , studies showed e cigarette users are five to 15 times more likely to get formaldehyde related cancer , compared to regular cigarette smokers	AGAINST
+231	Are E-Cigarettes safe?	no one can say whether inhaling vapor containing nicotine , flavoring and propylene glycol , which the fda has approved as an ingredient in food and medicine , is safer than inhaling smoke ?	NONE
+75	Are E-Cigarettes safe?	in 2014 , the world lung foundation stated that researchers find that many e cigarettes contain toxins , contaminants and carcinogens that conflict with the industry is portrayal of its products as purer , healthier alternatives	AGAINST
+368	Are E-Cigarettes safe?	public health officials counter that it 's too early to know very much about the health effects of e cigarettes , especially on young people	NONE
+203	Are E-Cigarettes safe?	e cigarettes are an emerging public health concern as they gain popularity among current and former smokers as well as those who have never smoked , including teenagers	NONE
+16	Are E-Cigarettes safe?	major adverse effects of e cigarettes reported to the fda included hospitalizations for pneumonia , congestive heart failure , seizure , rapid heart rate , and burns	AGAINST
+66	Are E-Cigarettes safe?	while there is variability in the ingredients and concentrations of ingredients in e cigarette liquids , tobacco smoke contains thousands of chemicals , most of which are not understood and many of which are known to be harmful	AGAINST
+172	Are E-Cigarettes safe?	electronic cigarettes are harmless and enjoyable	FAVOR

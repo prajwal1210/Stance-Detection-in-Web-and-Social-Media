@@ -27,7 +27,7 @@ D = None
 random.seed(42)
 
 if len(sys.argv) !=3:
-    print("Usage :- python tuning_test.py <dataset name> <attention vairant>")
+    print("Usage :- python early_stopping_training.py <dataset name> <attention vairant>")
     sys.exit(-1)
 
 version = sys.argv[2]

@@ -1,0 +1,85 @@
+ID	Target	tweet	Stance
+30	Does Vitamin C prevent common cold?	in 2013 , an updated review of studies into vitamin see and the common cold concluded that regular ingestion of vitamin see had no effect on common cold incidence in the ordinary population	AGAINST
+126	Does Vitamin C prevent common cold?	the average duration of the colds was 5 5 days in the vitamin see group and 5 8 in the placebo group	NONE
+199	Does Vitamin C prevent common cold?	overall , current evidence does not suggest that vitamin see supplementation reduces the incidence or severity of cold in healthy individuals , even at high doses	NONE
+142	Does Vitamin C prevent common cold?	if you choose to supplement when a cold strikes , there is no reason to take more than 250 mg per day , as shown in the 1974 anderson study	FAVOR
+253	Does Vitamin C prevent common cold?	a small study published in the journal of the american college of nutrition found that vitamin see may dampen the inflammatory response caused by the chemical histamine and this antihistamine effect could reduce the symptoms of a cold , such as runny noses , that occur when the body ramps up its inflammatory response	FAVOR
+237	Does Vitamin C prevent common cold?	it 's fair to say that vitamin see supplementation both shortens duration of cold and offers some protection against colds , though it 's not very dramatic , said stephen lawson , a researcher at the linus pauling institute at oregon state university , who studies micronutrients	FAVOR
+97	Does Vitamin C prevent common cold?	vitamin see also acts as an antioxidant in the body , which will help to protect against the cell damaging free radicals that we sometimes come in contact with	NONE
+206	Does Vitamin C prevent common cold?	overall , experts find little to no benefit if you use vitamin see to prevent or treat a cold	AGAINST
+263	Does Vitamin C prevent common cold?	the natural medicines comprehensive database rates effectiveness based on scientific evidence , isaac explains , and according to the national institutes of health , vitamin see is considered possibly effective for treating the common cold	AGAINST
+144	Does Vitamin C prevent common cold?	vitamin see really does n't seem to help prevent a cold , but there 's much evidence to suggest that taking high doses of see may help shorten the time you 're sick by a day or so	FAVOR
+79	Does Vitamin C prevent common cold?	dr pauling , a strong proponent of using vitamin see to prevent and treat colds , wrote the definitive book on the subject	NONE
+209	Does Vitamin C prevent common cold?	however , vitamin see did n't help if people took it after they showed signs of getting cold	AGAINST
+231	Does Vitamin C prevent common cold?	getting plenty of see may be especially important for pregnant moms and infants	NONE
+101	Does Vitamin C prevent common cold?	one study did find that taking a daily vitamin see supplement reduced the frequency of catching a cold	FAVOR
+195	Does Vitamin C prevent common cold?	some studies have shown that taking large doses of vitamin see ( more than 1 , 000 mg per day ) continuously or when you first develop cold symptoms , may ease some of the symptoms and the duration	FAVOR
+114	Does Vitamin C prevent common cold?	without question , publication of this book , combined with pauling 's reputation as a nobel prize winning scientist , has made vitamin see a best seller	NONE
+194	Does Vitamin C prevent common cold?	despite exhaustive research across the world , there is still no strong evidence to prove that vitamin see prevents common cold	NONE
+60	Does Vitamin C prevent common cold?	this partially explains why linus pauling believed vitamin see could prevent colds	FAVOR
+203	Does Vitamin C prevent common cold?	moreover , when under stressful conditions such as extreme exercise or cold temperatures , additional vitamin see may help strengthen your resistance to respiratory infection	FAVOR
+242	Does Vitamin C prevent common cold?	lawson 's institution , which was founded by pauling , recommends taking 400 milligrams of vitamin see a day to promote optimal health	NONE
+45	Does Vitamin C prevent common cold?	the research findings suggest that taking vitamin see taken regularly as a supplement can affect the number of days ( duration ) you suffer with the cold	FAVOR
+73	Does Vitamin C prevent common cold?	vitamin see supplements also increase the risk for kidney stones , a particularly painful condition to have	NONE
+182	Does Vitamin C prevent common cold?	according to the researchers , one possible explanation is that vitamin see lowers the severity of cold symptoms , such as chills and coughs	FAVOR
+258	Does Vitamin C prevent common cold?	men doing heavy physical exercise are particularly prone to respiratory infections , and taking 600 mg to 1g vitamin see per day was found to half the risk of cold symptoms for military troops under training , as well as for participants in a 90 kiss me running race	FAVOR
+275	Does Vitamin C prevent common cold?	whether vitamin see has an effect on the common cold has been a subject of controversy for at least 60 years	NONE
+213	Does Vitamin C prevent common cold?	for most people , it 's also okay if you take supplements in the recommended amount	NONE
+84	Does Vitamin C prevent common cold?	even more recently , van straten and jos ling found that subjects receiving a vitamin see supplement for 60 days during winter see had significantly fewer colds as compared to placebo	FAVOR
+42	Does Vitamin C prevent common cold?	a recently updated cochrane systematic review evaluated the benefits of vitamin see and the common cold in three areas as a regular supplement to prevent the common cold ( frequency ) regular supplement to reduce the duration and severity of symptoms , and treatment , once a cold was present to reduce the duration and severity of symptoms prevent getting the common cold while taking vitamin see as a regular supplement	NONE
+9	Does Vitamin C prevent common cold?	researchers have found that zinc is the best supplement for warding off colds , while vitamin see is likely to be a waste of money	AGAINST
+118	Does Vitamin C prevent common cold?	by 1982 , about thirty of these were reported and the majority of medical scientists had concluded that supplementation with vitamin see does not prevent colds and , at best , may slightly reduce the symptoms of a cold	AGAINST
+22	Does Vitamin C prevent common cold?	but in people who work out , vitamin see can halve the risk and even help get rid of the sniffles	FAVOR
+155	Does Vitamin C prevent common cold?	this study demonstrated that doses of vitamin see greater than 1000 mg confer a beneficial response in battling the duration and severity of the common cold	FAVOR
+24	Does Vitamin C prevent common cold?	and male teenage swimmers who caught a cold and were treated with the supplement shook off their illness twice as quickly as boys who did n't take the vitamin	FAVOR
+168	Does Vitamin C prevent common cold?	higher doses of vitamin see ( greater than too , 000 milligrams per day ) may cause kidney stones , nausea , and diarrhea	AGAINST
+226	Does Vitamin C prevent common cold?	analyzing data from more than 85 , 000 women in the nurses health study , researchers at children is hospital , boston , reported in 2003 that those with the highest intake of see had the lowest risk of heart disease over a 16 year period	NONE
+75	Does Vitamin C prevent common cold?	there simply isn t enough evidence that vitamin see prevents colds	AGAINST
+234	Does Vitamin C prevent common cold?	the current recommended daily intake for men is 90 mg and for women it is 75 mg denial of normal t waste your money on megadoses of vitamin see , says higdon	NONE
+236	Does Vitamin C prevent common cold?	some studies suggest taking vitamin see has a modest effect on the common cold , but do n't expect miracles , one expert says	FAVOR
+6	Does Vitamin C prevent common cold?	the authors found seven trials ( all in adults ) evaluating whether vitamin see taken when their symptoms started would shorten the cold	NONE
+68	Does Vitamin C prevent common cold?	according to some studies , taking vitamin see may also reduce the duration of the common cold by a day or two	FAVOR
+46	Does Vitamin C prevent common cold?	there was a decrease in the number of days that the cold affected people specifically , a decrease of 8 in adults ( 17 studies , 7215 participants ) was shown	FAVOR
+177	Does Vitamin C prevent common cold?	most scientists agree that vitamin see is not an effective treatment for the common cold	AGAINST
+66	Does Vitamin C prevent common cold?	before you assume that vitamin see is worthless , there may be a small benefit to getting higher doses of vitamin see when you feel the symptoms of a cold coming on	FAVOR
+25	Does Vitamin C prevent common cold?	the researchers also found that children also appear to be more responsive to the vitamin than adults , with a daily one gram dose slashing the average duration of colds in children by 18 per cent and in adults by 8 per cent	FAVOR
+125	Does Vitamin C prevent common cold?	the children receiving vitamin see averaged 0 38 colds per person while the placebo group averaged 0 37	NONE
+164	Does Vitamin C prevent common cold?	experts from the national institutes of health ( nih ) , suggest that vitamin see does not prevent you from catching a cold at all , but it may slightly reduce the duration of the cold if taken regularly	FAVOR
+19	Does Vitamin C prevent common cold?	large doses of vitamin see are also likely to cause nausea , diarrhoea and stomach cramps	NONE
+82	Does Vitamin C prevent common cold?	the results of this study were that flu and cold symptoms in the test group treated with vitamin see decreased by 85 compared to the control group	FAVOR
+172	Does Vitamin C prevent common cold?	regular supplements do not prevent colds in most people but they seem to reduce the severity of cold symptoms	FAVOR
+276	Does Vitamin C prevent common cold?	linus pauling 's book vitamin see and the common cold , published in 1970 , was a bestseller and led many people to believe in the value of the vitamin for cold prevention and treatment	NONE
+90	Does Vitamin C prevent common cold?	vitamin see strengthens connective tissue , increasing resistance to viral invasion	FAVOR
+152	Does Vitamin C prevent common cold?	amongst the 21 studies they concluded that there was no effect of vitamin see supplementation upon the incidence of the common cold , but that there was a significant dose dependent impact upon the severity and duration of the cold	FAVOR
+261	Does Vitamin C prevent common cold?	the role vitamin see plays , with respect to the common cold , remains controversial , says beth isaac , pharmd	NONE
+15	Does Vitamin C prevent common cold?	vitamin see became popular in the seventies after nobel laureate linus pauling concluded it could prevent and alleviate colds	FAVOR
+159	Does Vitamin C prevent common cold?	after reviewing this evidence it appears that there are possible health benefits from taking vitamin see supplements if you are concerned about becoming plagued by the common cold , but it is important to take note that the effects of supplementation are not the same for everyone !	NONE
+10	Does Vitamin C prevent common cold?	britons are wasting million of pounds buying vitamin see supplements to ward off colds after researchers found they have no benefit at all	AGAINST
+260	Does Vitamin C prevent common cold?	although cochrane review found no evidence to support an effect in preventing colds , this was probably because doses higher than those usually taken are needed	FAVOR
+124	Does Vitamin C prevent common cold?	the cou leh an team reported in 1974 that the vitamin see group had less severe colds	FAVOR
+33	Does Vitamin C prevent common cold?	when it comes to flu , one person in three believes that taking vitamin see can cure the flu virus	NONE
+86	Does Vitamin C prevent common cold?	the authors concluded that vitamin see was effective in fighting off common cold	FAVOR
+264	Does Vitamin C prevent common cold?	vitamin see may be effective for the common cold for specific types of people , she adds	FAVOR
+221	Does Vitamin C prevent common cold?	vitamin see is a potent antioxidant , able to neutralize unstable oxygen molecules that might otherwise damage dna	NONE
+37	Does Vitamin C prevent common cold?	the study of vitamin see became very popular after linus pauling , a nobel laureate in chemistry , claimed that it prevented many different diseases , including the common cold	FAVOR
+140	Does Vitamin C prevent common cold?	the many studies done in the last 30 years clearly prove that daily vitamin see supplements , whether 100 mg or 5 , 000 mg , do not prevent colds and provide , but only for some people , only a slight reduction in duration and severity of colds	AGAINST
+16	Does Vitamin C prevent common cold?	it is the uk is most popular vitamin with annual sales of around 36 million	NONE
+193	Does Vitamin C prevent common cold?	for smokers , the recommended intake is 35 mg day higher than for nonsmokers , because smokers are under increased oxidative stress from the toxins in cigarette smoke and generally have lower blood levels of vitamin see	NONE
+243	Does Vitamin C prevent common cold?	whether vitamin see is a reasonable way to treat the common cold remains a more open question	NONE
+67	Does Vitamin C prevent common cold?	a study carried out in 2010 found participants taking vitamin see daily had less severe cold symptoms but only if they started taking vitamin see prior to developing cold symptoms	FAVOR
+132	Does Vitamin C prevent common cold?	no reduction in the incidence of colds was observed , but those taking vitamin see averaged less time at home ( 1 62 versus 1 12 days indoors )	FAVOR
+154	Does Vitamin C prevent common cold?	similarly they found a 17 decrease in the duration of the common cold amongst participants that consumed 6000 mg day	FAVOR
+115	Does Vitamin C prevent common cold?	pauling himself reportedly took 12 , 000 mg daily and raised it to 40 , 000 mg when symptoms of a cold appeared !	NONE
+137	Does Vitamin C prevent common cold?	of these , 12 trials showed no prevention and no reduction in duration or severity , five trials showed no prevention and only slight , statistically non significant lessening of severity , and the other five trials reported no prevention and a small but significant in reduction of duration of the colds	NONE
+262	Does Vitamin C prevent common cold?	there is very little evidence demonstrating that vitamin see has any significant effect on the common cold	AGAINST
+77	Does Vitamin C prevent common cold?	when you weigh the benefits and downsides , the scales tip strongly towards not taking high dose vitamin see	AGAINST
+18	Does Vitamin C prevent common cold?	however a recent cochrane review found that regular vitamin see supplements had no effect on common cold incidence although it may shorten the time the disease lasts	FAVOR
+192	Does Vitamin C prevent common cold?	women need 60 mg of vitamin see daily	NONE
+216	Does Vitamin C prevent common cold?	vitamin see does t prevent colds	AGAINST
+93	Does Vitamin C prevent common cold?	unfortunately however , although commonly thought to , vitamin see does not offer a great deal of protection against the common cold	AGAINST
+119	Does Vitamin C prevent common cold?	so far , at least 30 experiments have tested the ability of vitamin see to protect against colds in large groups of people	NONE
+92	Does Vitamin C prevent common cold?	these four important functions of vitamin see work together to safely and effectively reduce the frequency , severity , and duration of a cold	FAVOR
+173	Does Vitamin C prevent common cold?	the nhs advises not to take more than 1 , 000 mg daily	NONE
+55	Does Vitamin C prevent common cold?	taking vitamin see as a treatment at the beginning of a cold does n't make any important difference with the duration and severity of symptoms	AGAINST
+251	Does Vitamin C prevent common cold?	as for the flu , there are no modern studies suggesting that the vitamin can help prevent the flu , though research from the 1940s and 1950s hints at a protective effect , lawson said	NONE
+210	Does Vitamin C prevent common cold?	people in extremely good physical condition , such as marathon runners , who took vitamin see every day cut their risk of catching a cold in half	FAVOR

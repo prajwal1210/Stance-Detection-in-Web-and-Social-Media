@@ -157,9 +157,7 @@ def load_dataset(dataset,dev = "cuda"):
         topic = "vaccines treat influenza"
     print(topic)
 
-
-    if dataset == "AT":
-        dataset = "Atheism"
+    normalization_dict = create_normalise_dict(no_slang_data = "./noslang_data.json", emnlp_dict = "./emnlp_dict.txt")
 
     target = normalise(normalization_dict,clean_str(topic))
     stances = {'FAVOR' : 0, 'AGAINST' : 1, 'NONE' : 2}
