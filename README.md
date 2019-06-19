@@ -1,4 +1,4 @@
-All Instructions to run the codes are provided in seperate folders.
+All Instructions to run the codes are provided in respective folders.
 
 ## Publication
 
