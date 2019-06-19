@@ -1,3 +1,7 @@
+All Instructions to run the codes are provided in seperate folders.
+
+
+
 This is the code repository for the paper "Stance Detection in Web and Social Media:  A Comparative Study" published in the proceedings of CLEF 2019 conference (http://clef2019.clef-initiative.eu/).
 
 If you use these codes, please cite our paper:
