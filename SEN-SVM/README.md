@@ -1,3 +1,4 @@
+## Usage
 To run the model for SemEval dataset : python SVM.py
 
 To run the model for MPCHI dataset : python SVM_mpchi.py
