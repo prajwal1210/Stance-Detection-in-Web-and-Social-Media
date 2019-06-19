@@ -224,7 +224,7 @@ def train(topic,bow=False,senti=False,sta=False,ent=False,med = False):
 
 # In[22]:
 
-'''
+
 #BOW
 print ('BOW---------')
 y_pred,y_test = [],[]
@@ -368,7 +368,7 @@ for dataset in ['MMR','HRT','EC','VC','SC']:
     y_test.extend(b)
     print(len(a),len(b))
     
-print(classification_report(y_test,y_pred,labels=['support','oppose'],target_names=['support','oppose']))'''
+print(classification_report(y_test,y_pred,labels=['support','oppose'],target_names=['support','oppose']))
 
 y_pred,y_test = [],[]
 for dataset in ['MMR','HRT','EC','VC','SC']:
