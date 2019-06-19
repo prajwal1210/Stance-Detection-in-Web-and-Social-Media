@@ -1,7 +1,10 @@
-## Usage
-To run the model for SemEval dataset : python SVM.py
+## Requirements
+Python version - 3.6/3.7 with NLTK installed
 
-To run the model for MPCHI dataset : python SVM_mpchi.py
+## Usage
+  To run the model for SemEval dataset : python SVM.py
+
+  To run the model for MPCHI dataset : python SVM_mpchi.py
 
 The folder final_feature_set contains all extracted features. Note that medical feature has not been extracted for SemEval dataset.
 
