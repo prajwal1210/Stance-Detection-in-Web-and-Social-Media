@@ -11,7 +11,8 @@ This is the code repository for the paper "Stance Detection in Web and Social Me
 	This folder contains the codes for TAN and LSTM, the details of which are mentioned in our paper. The folder contains all instructions to run the code. 
 - **SEN-SVM**:
 	This folder contains the codes for the SEN-SVM method, the details of which are mentioned in our paper. The folder contains all instructions to run the code. 
-
+- **Bert.ipynb**:
+	This ipython notebook contains the code used for running BERT on the dataset. This needs to be be run on [Google Colab](https://colab.research.google.com) with TPU support. 
 
 ## Publication
 
